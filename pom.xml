@@ -13,5 +13,11 @@
             <artifactId>commons-collections4</artifactId>
             <version>4.4.0.redhat-00003</version>
         </dependency>
+        <dependency>
+            <groupId>org.jbpm</groupId>
+            <artifactId>jbpm-bpmn2</artifactId>
+            <version>7.67.2.Final-redhat-00008</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 </project>
